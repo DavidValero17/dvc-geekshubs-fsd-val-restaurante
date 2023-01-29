@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+.containerabout {
+    margin: 30px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 6fr;
+    grid-template-rows: 1fr 5fr 1fr 1fr;
+    gap: 5px;
+}
