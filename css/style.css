@@ -6,7 +6,17 @@ body {
     margin: 30px;
     height: 100vh;
     display: grid;
-    grid-template-columns: 3fr 1fr 1fr 6fr;
-    grid-template-rows: 1fr 5fr 1fr 1fr;
-    gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    gap: 20px;
+}
+
+.card {
+    margin: 10px;
+    background-color: grey;
+    border: none;
+}
+
+.card-text {
+    text-align: center;
 }
