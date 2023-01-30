@@ -8,18 +8,20 @@ body {
     margin: 0;
 }
 
+#entrantes-frios {
+    background-color: red;
+    background-image: url(../assets/frio.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 #entrantes-calientes {
     background-color: red;
     background-image: url(../assets/carnaca.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-#entrantes-frios {
-    background-color: red;
-    background-image: url(../assets/carnaca.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
+
 
 .titulo {
     display: flex;
@@ -42,4 +44,11 @@ body {
 
 h4 {
     color: rgba(165, 42, 42, 0.522);
+}
+
+#refrescos {
+    background-color: red;
+    background-image: url(../assets/vino.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
