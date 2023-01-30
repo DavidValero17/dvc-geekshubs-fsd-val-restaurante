@@ -1,3 +1,28 @@
 body {
     background-color: grey;
+    height: 100vh;
+}
+
+.containerContact {
+    background-color: white;
+    width: 70%;
+    /* height: 80%; */
+    margin: auto;
+    /* padding: 20px; */
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(165, 42, 42, 0.522);
+    margin-top: 120px;
+}
+
+span {
+    border-top: 1.8px dashed black;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
 }
