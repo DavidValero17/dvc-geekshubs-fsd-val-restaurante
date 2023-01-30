@@ -5,11 +5,20 @@ body {
 .tituloSeccion {
     height: 20vh;
     border: solid black 1px;
+    margin: 0;
+}
+
+#entrantes-calientes {
     background-color: red;
     background-image: url(../assets/carnaca.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    margin: 0;
+}
+#entrantes-frios {
+    background-color: red;
+    background-image: url(../assets/carnaca.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .titulo {
