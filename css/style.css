@@ -1,17 +1,8 @@
 body {
-    background-color: grey;
+    background-color: white;
 }
 
-.card {
-    margin-top: 20px;
-    margin-left: 200px;
-    background-color: grey;
-    border: none;
-}
 
-.card-text {
-    text-align: center;
-}
 
 /* h1 {
     margin: 10px;
@@ -19,14 +10,15 @@ body {
 
 .col2 {
     margin-top: 20px;
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
 }
 
-.asador {
+/* .asador {
     margin: 20px;
-}
+} */
 
 p {
     font-size: x-large;
 }
+
