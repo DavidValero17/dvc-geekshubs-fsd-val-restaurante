@@ -1,8 +1,6 @@
 body {
-    background-color: white;
+    background-color: grey;
 }
-
-
 
 /* h1 {
     margin: 10px;
@@ -14,9 +12,9 @@ body {
     width: 400px;
 }
 
-/* .asador {
-    margin: 20px;
-} */
+.asador {
+    margin: 40px;
+}
 
 p {
     font-size: x-large;
