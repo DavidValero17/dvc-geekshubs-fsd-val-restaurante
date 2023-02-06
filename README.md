@@ -1,11 +1,11 @@
 # Restaurante asador
 
-Este es un proyecto el cual esta realizado para el curso fsd de GeeksHubs. En dicho proyecto vamos a estar viendo una pagina web simple la cual va a constar de una pantalla inicial (Home), otra pantalla llamada "Menu" y por último "Contacto".
+Este es un proyecto el cual esta realizado para el curso fsd de GeeksHubs. En dicho proyecto vamos a estar viendo una pagina web la cual va a constar de una pantalla inicial (Home), otra pantalla llamada "Menu" y por último "Contacto".
 
 ## Tecnologías utilizadas
 ---
 
-En este caso al tratarse de una web muy simple hemos utilizado muy pocas tecnologías. Serian las siguientes: 
+En este caso hemos utilizado las siguientes tecnologías: 
 
 * HTML 
 * CSS
@@ -14,7 +14,7 @@ En este caso al tratarse de una web muy simple hemos utilizado muy pocas tecnolo
 
 ### Ejemplo de tecnologías 
 
-Hemos utilizado bootstrap para practicamente todo ya que es muy comodo de utilizar. Lo mas notorio ha sido el navbar el cual gracias a bootstrap te evitas mucho quebraderos de cabeza. Aqui teneis una captura de dicho navbar:
+Hemos utilizado bootstrap para practicamente todo ya que es muy comodo de utilizar. Lo mas notorio ha sido el navbar el cual gracias a bootstrap te evitas muchos quebraderos de cabeza. Aqui teneis una captura de dicho navbar:
 
 ![Alt text](assets/navbar.png)
 
@@ -24,16 +24,16 @@ A su vez hemos estado utilizando CSS, no tanto como bootstrap pero el justo y ne
 
 ### Capturas del proyecto
 
-Aqui teneis la página "Home" con unas pocas fotografias las cuales representan el restaurante y un texto con su historia 
+Aqui teneis la página "Home" con unas cuantas fotografias las cuales representan el restaurante y un texto con su historia:
 
 
 ![Alt text](assets/ejemplo%20home.png)
 
-Depues tendriamos la página "Carta" el cual al hacer scroll la veriamos en su totalidad. 
+Depues tendriamos la página "Carta" el cual al hacer scroll la veriamos en su totalidad:
 
 ![Alt text](assets/ejemplo%20carta.png)
 
-Y por último la pagina "Contacto" donde se encuentra la información de los diferentes restaurantes.
+Y por último la pagina "Contacto" donde se encuentra la información de los diferentes restaurantes:
 
 ![Alt text](assets/ejemplo%20contacto.png)
 
