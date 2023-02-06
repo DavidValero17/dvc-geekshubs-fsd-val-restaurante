@@ -11,13 +11,14 @@ body {
 #entrantes-frios {
     background-image: url(../assets/frio.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    
 }
 
 #entrantes-calientes {
     background-image: url(../assets/carnaca.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 
@@ -47,5 +48,5 @@ h4 {
 #refrescos {
     background-image: url(../assets/vino.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
